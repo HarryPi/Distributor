@@ -1,5 +1,21 @@
 # Distributor
 
+## Idea
+This is to be the front-end for a generic product distribution platform. The first stage will mainly focus
+on the needs of Pharmaceutical companies as it comprises the main shareholder of this project.
+
+Will be cross-platform desktop app based on Electron.
+
+More to be added as the project progresses.
+
+## Project Principals
+The main idea of this project is to follow Google's good coding principle, what this means.
+- Any new feature **MUST** come with a test suite and an explanation why it is a good test
+- All code if more than one participants in the project must be code-reviewed
+- All new features / Bugs and future plans must be an issue in GitHub with a clear track on progress.
+- Any new code must be in small commits!
+
+### Auto Generated comments from angular below
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
 ## Development server
